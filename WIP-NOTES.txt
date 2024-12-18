@@ -1,0 +1,3 @@
+server: 10.252.6.94
+user: pwhq1ftp
+dir /receive/ITM

@@ -1,0 +1,3 @@
+cp 1801.csv /home/e787335/
+cp ../ITM/*B1801.*.CSV B1801/
+cp -r conf/ ../B1801/
