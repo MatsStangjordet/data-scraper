@@ -1,1 +1,0 @@
-cat header.txt > temp && cat 1801_new.csv >> temp && cat temp > 1801_new.csv
